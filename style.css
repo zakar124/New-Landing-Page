@@ -15,3 +15,13 @@ ul {
     gap: 16px;
     margin-top: -1px;
 }
+
+.topcontainer2 {
+    display: flex;
+   
+}
+
+.imageplaceholder {
+    background-color: rgba(128,128,128,.4);
+    text-align: center;
+}
