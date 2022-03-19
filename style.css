@@ -1,6 +1,7 @@
 .top {
     background-color: #1f2937;
     color: white;
+    font-family: 'Nanum Myeongjo', serif;
 
 }
 
@@ -14,6 +15,9 @@ ul {
     display: flex;
     gap: 16px;
     margin-top: -1px;
+}
+    a:link { text-decoration: none; 
+        color: white;
 }
 
 .topcontainer2 {
@@ -44,6 +48,9 @@ button {
     padding-top: 3px;
     padding-bottom: 3px;
     border-radius: 8px;
+    margin-top: -25px;
+    font-family: 'Nanum Myeongjo', serif;
+   
 }
 .imageplaceholder {
     background-color: rgba(128,128,128,.4);
