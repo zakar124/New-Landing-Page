@@ -18,9 +18,10 @@ ul {
 
 .topcontainer2 {
     display: flex;
-    margin-right: 80px;
-    margin-left: 80px;
+    margin-right: 100px;
+    margin-left: 100px;
     gap: 10px;
+
 
 }
 .divtext {
@@ -37,7 +38,11 @@ h2 {
 .imageplaceholder {
     background-color: rgba(128,128,128,.4);
     text-align: center;
+    padding-top: 100px;
     flex: 1;
+    height: 90px;
+    margin-top: 20px;
+    margin-left: 100px;
     
 
 }
