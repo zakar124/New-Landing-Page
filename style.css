@@ -18,10 +18,26 @@ ul {
 
 .topcontainer2 {
     display: flex;
-   
-}
+    margin-right: 80px;
+    margin-left: 80px;
+    gap: 10px;
 
+}
+.divtext {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    margin-top: 80px;
+
+}
+h2 {
+    height: 200px;
+    width: 150px;
+}
 .imageplaceholder {
     background-color: rgba(128,128,128,.4);
     text-align: center;
+    flex: 1;
+    
+
 }
