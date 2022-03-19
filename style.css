@@ -20,20 +20,30 @@ ul {
     display: flex;
     margin-right: 100px;
     margin-left: 100px;
-    gap: 10px;
+    gap: 100px;
 
 
 }
 .divtext {
     height: 150px;
-    width: 150px;
+    width: 300px;
     position: absolute;
     margin-top: 80px;
-
+ 
 }
 h2 {
     height: 200px;
     width: 150px;
+}
+
+button {
+    background-color: royalblue;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 8px;
 }
 .imageplaceholder {
     background-color: rgba(128,128,128,.4);
