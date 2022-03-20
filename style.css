@@ -2,7 +2,10 @@
     background-color: #1f2937;
     color: white;
     font-family: 'Nanum Myeongjo', serif;
+}
 
+*  {
+    font-family: 'Nanum Myeongjo', serif;
 }
 
 .topcontainer {
@@ -62,4 +65,9 @@ button {
     margin-left: 100px;
     
 
+}
+ 
+img {
+    height: 100px;
+    width: 100px;
 }
