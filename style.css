@@ -76,6 +76,9 @@ h3 {
     text-align: center;
 }
 
-.flowercontainer {
+.flowerflexcontainer {
     display: flex;
+    font-size: 11px;
+    text-align: center;
+    gap: 20px;
 }
