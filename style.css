@@ -100,11 +100,13 @@ h3 {
     width: 400px;
     align-self:center;
     font-style: italic;
+    flex: 1;
 }
 
 .quoteauthor {
     font-size: 12px;
     align-self: flex-end;
+
 }
 
 .bottomcontainer {
@@ -112,28 +114,28 @@ h3 {
     color: white;
     margin: 50px;
     display: flex;
-    padding: 50px;
+    padding: 40px;
     border-radius: 10px;
-}
-
 }
 
 .calltoactiontext {
     font-size:large;
     align-self: center;
+
 }
 
 .signuptext {
     font-size:smaller;
 }
 
-button {
+.button2 {
     background-color: #3882F6;
     color: white;
-    padding-right: 20px;
-    padding-left: 20px;
     border: 2px solid white;
     border-radius: 5px;
-    margin-left: 20px;
+    margin-top: 10px;
+    margin-left: 80px;
+    flex: 1;
+
 
 }
