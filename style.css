@@ -43,7 +43,7 @@ h2 {
     width: 150px;
 }
 
-button {
+.button1 {
     background-color: #3882f6;
     color: white;
     padding-right: 20px;
@@ -63,6 +63,7 @@ button {
     height: 90px;
     margin-top: 20px;
     margin-left: 100px;    
+    font-size: 11px;
 }
  
 img {
@@ -104,7 +105,35 @@ h3 {
 .quoteauthor {
     font-size: 12px;
     align-self: flex-end;
+}
 
+.bottomcontainer {
+    background-color: #3882F6;
+    color: white;
+    margin: 50px;
+    display: flex;
+    padding: 50px;
+    border-radius: 10px;
+}
 
+}
+
+.calltoactiontext {
+    font-size:large;
+    align-self: center;
+}
+
+.signuptext {
+    font-size:smaller;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-left: 20px;
 
 }
