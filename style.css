@@ -78,7 +78,33 @@ h3 {
 
 .flowerflexcontainer {
     display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.imagetext {
     font-size: 11px;
     text-align: center;
-    gap: 20px;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+.quotecontainer {
+    display: flex;
+    justify-content:center;
+    background-color: rgb(219, 215, 215);
+    padding: 60px;
+}
+.quote {
+    width: 400px;
+    align-self:center;
+    font-style: italic;
+}
+
+.quoteauthor {
+    font-size: 12px;
+    align-self: flex-end;
+
+
+
 }
