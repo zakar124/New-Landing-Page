@@ -137,5 +137,12 @@ h3 {
     margin-left: 80px;
     flex: 1;
 
+}
 
+footer {
+    background-color: #1f2937;
+    color: white;
+    font-size:smaller;
+    text-align: center;
+    padding: 30px;
 }
